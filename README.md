@@ -27,8 +27,7 @@ src/
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Shiakh0112/Wisdom-Peak-Analytics-User-state-management.git
-   cd React-user-app
+   git clone https://github.com/Shiakh0112/wisdom-peak-analytics-assignment-.git
    ```
 
 2. Install dependencies:
